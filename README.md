@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Carl! 👋
+
+- 🧑‍💻 CS Student at Purdue University.
+- 💡 Always looking to solve problems and talk about anything!
+- 📤 Reach me at [LinkedIn](https://www.linkedin.com/in/carlguo) or [guo549@purdue.edu](mailto:guo549@purdue.edu)!
 
 <!--
 **carl2x/carl2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
